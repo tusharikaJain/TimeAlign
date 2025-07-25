@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "TimeAlign",
-  description: " ",
+  description: "Meeting Scheduling App ",
 };
 
 export default function RootLayout({ children }) {
